@@ -12,7 +12,7 @@ Clonar el repositorio de Github
 
     $ git clone git://github.com/itsiky/heroku-wordpress.git
 
-Con la [gema Heroku] (http://devcenter.heroku.com/articles/heroku-command), cree su aplicación
+Con la [Heroku gem](http://devcenter.heroku.com/articles/heroku-command), cree su aplicación
 
     $ cd heroku-wordpress
     $ heroku create
@@ -50,7 +50,7 @@ Cree una nueva sucursal para cualquier configuración / cambios de configuració
 
     $ git checkout -b production
 
-Almacene claves y sales únicas en las variables de entorno de Heroku. Wordpress puede proporcionar valores aleatorios [aquí] (https://api.wordpress.org/secret-key/1.1/salt/).
+Almacene claves y sales únicas en las variables de entorno de Heroku. Wordpress puede proporcionar valores aleatorios [aquí](https://api.wordpress.org/secret-key/1.1/salt/).
 
     heroku config:set AUTH_KEY='put your unique phrase here' \
       SECURE_AUTH_KEY='put your unique phrase here' \
