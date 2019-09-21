@@ -1,6 +1,6 @@
 # WordPress Heroku
 
-Este proyecto es una plantilla para instalar y ejecutar [WordPress] (http://wordpress.org/) en [Heroku] (http://www.heroku.com/). El repositorio viene incluido con:
+Este proyecto es una plantilla para instalar y ejecutar [WordPress](http://wordpress.org/) en [Heroku](http://www.heroku.com/). El repositorio viene incluido con:
 * [PostgreSQL for WordPress](http://wordpress.org/extend/plugins/postgresql-for-wordpress/)
 * [Amazon S3 and Cloudfront](https://wordpress.org/plugins/amazon-s3-and-cloudfront/)
 * [WP Sendgrid](https://wordpress.org/plugins/wp-sendgrid/)
