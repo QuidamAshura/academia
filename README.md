@@ -98,11 +98,11 @@ Deploy en Heroku
 
 Después de la implementación, WordPress tiene algunos pasos más para configurar y ¡listo!
 
-## Usage
+## Uso
 
 Debido a que un archivo no se puede escribir en el sistema de archivos de Heroku, la actualización e instalación de complementos o temas debe hacerse localmente y luego enviarse a Heroku.
 
-## Updating
+## Actualización
 
 Actualizar su versión de WordPress es solo una cuestión de combinar las actualizaciones en
 La rama creada a partir de la instalación.
@@ -121,7 +121,7 @@ WordPress necesita actualizar la base de datos. Después de presionar, navegue a
 WordPress le pedirá que actualice la base de datos. Después de eso serás bueno
 ir.
 
-## Deployment optimisation
+## Implementación y optimización
 
 Si tiene archivos que desea rastrear en su repositorio, pero no necesita implementación (por ejemplo, * .md, * .pdf, * .zip). Luego agregue la ruta o la coincidencia del archivo de Linux al archivo `.slugignore` y no se implementarán.
 
