@@ -10,7 +10,7 @@ Este proyecto es una plantilla para instalar y ejecutar [WordPress](http://wordp
 
 Clonar el repositorio de Github
 
-    $ git clone git://github.com/itsiky/heroku-wordpress.git
+    $ git clone git://github.com/QuidamAshura/academia.git
 
 Con la [Heroku gem](http://devcenter.heroku.com/articles/heroku-command), cree su aplicación
 
